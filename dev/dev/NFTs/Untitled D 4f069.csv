@@ -1,0 +1,6 @@
+﻿字段,描述
+to,以十六进制字符串表示的 L1 收件人地址
+feeToken,要支付费用的代币名称（通常是 ETH）
+token,NFT 的 ID
+fee,交易手续费
+fastProcessing,支付额外费用立即完成区块，跳过等待其他交易填满区块
