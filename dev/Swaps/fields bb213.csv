@@ -1,7 +1,0 @@
-﻿Property,walletA,walletB
-wBTC before swap,100,0
-ETH before swap,0,300
-Expected wBTC after swap,0,75
-Expected ETH after swap,250,0
-Actual wBTC after swap,0,100
-Actual ETH after swap,300,0
