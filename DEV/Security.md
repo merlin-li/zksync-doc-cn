@@ -2,8 +2,8 @@
 
 # 安全相关
 
-[Security](Security/Security.md)
+[安全性](Security/Security.md)
 
-[Bugs](Security/Bugs.md)
+[赏金计划](Security/Bugs.md)
 
-[KnownBugs](Security/KnownBugs.md)
+[已知漏洞](Security/KnownBugs.md)

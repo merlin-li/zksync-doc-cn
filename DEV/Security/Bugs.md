@@ -1,4 +1,4 @@
-# Bugs
+# 赏金计划
 
 - [赏金计划](https://merlin-li.github.io/zksync/security/bug#bug-bounty-program)
     - [范围](https://merlin-li.github.io/zksync/security/bug#scope)

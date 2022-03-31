@@ -1,4 +1,4 @@
-# Basic
+# 基础概念
 
 - [基础概念](https://merlin-li.github.io/zksync/payments#basic-concepts)
     - [操作](https://merlin-li.github.io/zksync/payments#operations)

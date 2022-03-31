@@ -1,7 +1,5 @@
-# Payments
-
 # 支付
 
-[Basic](Payments/Basic.md)
+[基础概念](Payments/Basic.md)
 
-[Transactions](Payments/Transaction.md)
+[发送交易](Payments/Transaction.md)

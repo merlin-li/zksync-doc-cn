@@ -1,5 +1,3 @@
-# Transactions
-
 # 发送交易
 
 本节介绍将交易发送到 zkSync 网络的原理。
