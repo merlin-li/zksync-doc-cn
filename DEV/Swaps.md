@@ -200,7 +200,15 @@ const swap =await walletC.syncSwap({
 
 这将把 Wallet A 中的 100 wBTC 兑换成 Wallet B 中的 300 ETH。 有关详细信息，请参见下表。
 
-[fields](Swaps/fields%20bb213.csv)
+|Property   |walletA                                  |walletB|
+|-----------|-----------------------------------------|-------|
+|wBTC before swap|100                                      |0      |
+|ETH before swap|0                                        |300    |
+|Expected wBTC after swap|0                                        |75     |
+|Expected ETH after swap|250                                      |0      |
+|Actual wBTC after swap|0                                        |100    |
+|Actual ETH after swap|300                                      |0      |
+
 
 ## **实用工具**
 

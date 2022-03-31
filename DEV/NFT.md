@@ -187,7 +187,13 @@ NFT 只能在其铸币交易的区块经过验证后才能转移。 这意味着
   }): Promise<Transaction[]>
 ```
 
-[transfer](NFT/transfer.csv)
+|字段         |说明                                       |
+|-----------|-----------------------------------------|
+|to         |以十六进制字符串表示的收件人地址                         |
+|feeToken   |支付费用的代币名称（通常为 ETH）                       |
+|token      |NFT 对象                                   |
+|fee        |交易手续费                                    |
+
 
 **syncTransferNFT** 函数在后台作为批处理交易工作，因此它将返回一个交易数组，其中第一个句柄是 NFT 传输，第二个是费用。
 
@@ -307,7 +313,14 @@ withdrawNFT(withdrawNFT: {
   }): Promise<Transaction>;
 ```
 
-[withdraw](NFT/withdraw.csv)
+|字段         |描述                                       |
+|-----------|-----------------------------------------|
+|to         |以十六进制字符串表示的 L1 收件人地址                     |
+|feeToken   |要支付费用的代币名称（通常是 ETH）                      |
+|token      |NFT 的 ID                                 |
+|fee        |交易手续费                                    |
+|fastProcessing|支付额外费用立即完成区块，跳过等待其他交易填满区块                |
+
 
 ```jsx
   const withdraw = await wallet.withdrawNFT({
@@ -340,7 +353,11 @@ async emergencyWithdraw(withdraw: {
       }): Promise<ETHOperation>
 ```
 
-[emergencywithdraw](NFT/emergency.csv)
+|字段         |描述                                       |
+|-----------|-----------------------------------------|
+|token      |NFT id                                   |
+|accountId (Optional)|account id for fullExit                  |
+
 
 ```jsx
   const emergencyWithdrawal = await wallet.emergencyWithdraw({ token, accountId });
