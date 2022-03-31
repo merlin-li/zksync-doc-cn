@@ -1,0 +1,3 @@
+﻿Name,Description
+txHash,sync-tx:-prefixed hex-encoded hash of the zkSync transaction.
+returns,"Receipt of this transaction (see types, for detailed description)"

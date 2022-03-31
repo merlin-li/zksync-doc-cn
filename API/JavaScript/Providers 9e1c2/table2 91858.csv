@@ -1,0 +1,4 @@
+﻿Name,Description
+transactions,An array of transactions / signature pairs.
+ethSignatures (optional),对整个批次进行签名的单个签名或签名列表
+returns,An array of 0x-prefixed hex-encoded hashes for each transaction in the batch

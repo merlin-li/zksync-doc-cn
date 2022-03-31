@@ -1,0 +1,9 @@
+﻿Name,Description
+transfer.accountId,Account id of the sender
+transfer.from,Address of the sender
+transfer.to,Address of the recipient
+transfer.tokenId,Numerical token id
+transfer.amount,"Amount to transfer, payed in token"
+transfer.fee,"Fee to pay for transfer, payed in token"
+transfer.nonce,Transaction nonce
+returns,Signed zkSync transfer transaction

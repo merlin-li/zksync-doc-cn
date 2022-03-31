@@ -1,0 +1,4 @@
+﻿Name,Description
+token,ERC20 token to be approved for deposits
+erc20ApproveThreshold (optional),The amount that needs to be approved. 2^255 by default.
+returns,True if the token deposits are approved

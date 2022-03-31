@@ -1,0 +1,4 @@
+﻿Name,Description
+nonce,Nonce that is going to be used for setSigningKey transaction.https://merlin-li.github.io/zksync/api/js/accounts#fn7
+ethTxOptions (optional),"Arguments for the onchain authentication Ethereum transaction, e.g. gas price."
+returns,Handle of the submitted transaction

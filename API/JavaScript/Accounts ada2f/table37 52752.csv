@@ -1,0 +1,9 @@
+﻿Name,Description
+withdraw.accountId,Account id of the sender
+withdraw.from,Account address of the sender
+withdraw.ethAddress,Ethereum address of the recipient
+withdraw.tokenId,Numerical token id
+withdraw.amount,"Amount to withdraw, paid in token"
+withdraw.fee,"Fee to pay for withdrawing, paid in token"
+withdraw.nonce,Transaction nonce
+returns,Signed zkSync withdraw transaction

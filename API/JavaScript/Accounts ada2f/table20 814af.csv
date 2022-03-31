@@ -1,0 +1,10 @@
+﻿Name,Description
+withdraw.ethAddress,Ethereum address of the recipient
+withdraw.token,Token to be transferredhttps://merlin-li.github.io/zksync/api/js/accounts#fn6.
+withdraw.amount,Amount of token to be transferredhttps://merlin-li.github.io/zksync/api/js/accounts#fn8.
+withdraw.fee (optional),amount of token to be paid as a fee for this transactionhttps://merlin-li.github.io/zksync/api/js/accounts#fn5.
+withdraw.nonce (optional),Nonce that is going to be used for this transactionhttps://merlin-li.github.io/zksync/api/js/accounts#fn7.
+withdraw.fastProcessing (optional),Request faster processing of transaction. Note that this requires a higher feehttps://merlin-li.github.io/zksync/api/js/accounts#fn9
+withdraw.validFrom (optional),Unix timestamp from which the block with this transaction can be processed
+withdraw.validUntil (optional),Unix timestamp until which the block with this transaction can be processed
+returns,Handle of the submitted transaction

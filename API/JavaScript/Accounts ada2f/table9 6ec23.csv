@@ -1,0 +1,4 @@
+﻿Name,Description
+token,ERC20 token
+max_erc20_approve_amount (optional),Amount of token to be unlocked. Infinite by default
+returns,Handle for the ethereum transaction.

@@ -1,5 +1,7 @@
+# Payments
+
 # 支付
 
-[基础概念](%E6%94%AF%E4%BB%98%204059f/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%206ab13.md)
+[Basic](Payments/Basic.md)
 
-[发送交易](%E6%94%AF%E4%BB%98%204059f/%E5%8F%91%E9%80%81%E4%BA%A4%E6%98%93%201ec7f.md)
+[Transactions](Payments/Transaction.md)

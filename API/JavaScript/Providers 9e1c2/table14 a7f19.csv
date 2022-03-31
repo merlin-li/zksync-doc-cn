@@ -1,0 +1,3 @@
+﻿Name,Description
+ethersProvider,ethers.js provider connected to ethereum node
+contractAddress,Addresses of the zkSync network contracts

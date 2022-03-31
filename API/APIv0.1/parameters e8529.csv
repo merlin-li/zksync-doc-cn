@@ -1,0 +1,4 @@
+﻿Parameter,Description,Default value,Max value
+address,"Account address in a hexadecimal form with a ""0x"" prefix.",N/A,N/A
+tx_id,ID of the transaction to load the history from.,Latest executed transaction,N/A
+limit,Maximum amount of transactions in response.,100,100

@@ -1,0 +1,10 @@
+﻿Name,Description
+order.tokenSell,Token to be swapped
+order.tokenBuy,Token to be swapped for
+order.ratio,An object that represents the sell:buy ratio; refer to https://merlin-li.github.io/zksync/api/js/accounts#ratios for details
+order.amount,Amount of token to be swappedhttps://merlin-li.github.io/zksync/api/js/accounts#fn8
+order.recipient (optional),Address of the account to which the result of the swap should be transferred (defaults to self)
+order.nonce (optional),Nonce that is going to be used for this transactionhttps://merlin-li.github.io/zksync/api/js/accounts#fn7
+order.validFrom (optional),Unix timestamp from which the block with this transaction can be processed
+order.validUntil (optional),Unix timestamp until which the block with this transaction can be processed
+returns,Handle of the submitted transaction

@@ -1,0 +1,7 @@
+﻿Name,Description
+swap.orders,"Signed orders, compatible with each other, that will constitute the swap"
+swap.feeToken,Token to be used to pay fees
+swap.amounts (optional),"Actual amounts to be swapped (defaults to amounts in orders, if they are not limit orders)"
+swap.fee (optional),Amount of token to be paid as a fee for this transaction.https://merlin-li.github.io/zksync/api/js/accounts#fn5
+swap.nonce (optional),Nonce that is going to be used for this transaction.https://merlin-li.github.io/zksync/api/js/accounts#fn7
+returns,Handle of the submitted transaction

@@ -1,0 +1,5 @@
+﻿Name,Description
+to,the recipient address represented as a hex string
+feeToken,name of token in which fee is to be paid (typically ETH)
+token,NFT object
+fee,transaction fee

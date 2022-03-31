@@ -1,0 +1,7 @@
+﻿Name,Description
+forcedExit.initiatorAccountId,Account id of the sender
+forcedExit.target,Ethereum address of the target account
+forcedExit.tokenId,Numerical token id
+forcedExit.fee,"Fee to pay for withdrawing, paid in token"
+forcedExit.nonce,Transaction nonce
+returns,Signed zkSync forced exit transaction

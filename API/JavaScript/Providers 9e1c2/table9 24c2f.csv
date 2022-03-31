@@ -1,0 +1,3 @@
+﻿Name,Description
+serialId,Numerical ID of the priority operation
+returns,Receipt of this priority operation

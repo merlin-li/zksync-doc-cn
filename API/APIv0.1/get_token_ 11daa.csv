@@ -1,0 +1,2 @@
+﻿Parameter,Type,Description
+token,TokenLike,Token identifier to request price for.

@@ -1,7 +1,9 @@
-# 安全
+# Security
 
-[安全性](%E5%AE%89%E5%85%A8%2003101/%E5%AE%89%E5%85%A8%E6%80%A7%207bdc3.md)
+# 安全相关
 
-[赏金计划](%E5%AE%89%E5%85%A8%2003101/%E8%B5%8F%E9%87%91%E8%AE%A1%E5%88%92%20b6741.md)
+[Security](Security/Security.md)
 
-[已知漏洞](%E5%AE%89%E5%85%A8%2003101/%E5%B7%B2%E7%9F%A5%E6%BC%8F%E6%B4%9E%20399ce.md)
+[Bugs](Security/Bugs.md)
+
+[KnownBugs](Security/KnownBugs.md)

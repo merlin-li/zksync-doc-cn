@@ -1,0 +1,5 @@
+﻿Name,Description
+withdraw.token,Token to be withdrawnhttps://merlin-li.github.io/zksync/api/js/accounts#fn6.
+withdraw.accountId (optional),Numerical id of the given accounthttps://merlin-li.github.io/zksync/api/js/accounts#fn2.
+withdraw.ethTxOptions (optional),"arguments for emergency withdraw Ethereum transaction, e.g. gas price."
+returns,Handle for this transaction.

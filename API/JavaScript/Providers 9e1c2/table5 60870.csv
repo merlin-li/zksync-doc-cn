@@ -1,0 +1,3 @@
+﻿Name,Description
+address,0x-prefixed hex-encoded address of the zkSync account.
+returns,"Detailed state of the zkSync account, including balances, nonce. (see types, for detailed description)"

@@ -1,0 +1,7 @@
+﻿Name,Description
+deposit.depositTo,zkSync account address of the receiver
+deposit.token,Token to be transferred (symbol or address of the supported token)
+deposit.amount,Amount of token to be transferred
+deposit.ethTxOptions,"Arguments for the deposit Ethereum transaction, e.g. gas price."
+deposit.approveDepositAmountForERC20 (optional),See below*
+returns,Handle for this transaction.

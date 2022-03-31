@@ -1,0 +1,5 @@
+﻿Name,Description
+txType,Type of the transaction.
+address,Address of the transaction recipients' wallet.
+tokenLike,Token used in the transaction.
+returns,Object containing the https://merlin-li.github.io/api/sdk/js/utils.html#amount-packing fee amount and the price components used for calculation.

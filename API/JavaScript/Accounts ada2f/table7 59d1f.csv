@@ -1,0 +1,4 @@
+﻿Name,Description
+token,"Token of interest, symbol or address of the supported token"
+type,"""committed"" or ""verified"""
+returns,Balance of this token

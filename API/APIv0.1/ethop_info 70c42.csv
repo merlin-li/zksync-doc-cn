@@ -1,0 +1,2 @@
+﻿Parameter,Type,Description
+priority_op_id,number,Unique identifier of a zkSync priority operation

@@ -1,0 +1,8 @@
+﻿Name,Description
+changePubKey.feeToken,Token to pay fee in.https://merlin-li.github.io/zksync/api/js/accounts#fn6
+changePubKey.ethAuthType,The type which determines how will the Ethereum signature be verified.
+changePubKey.fee (optional),Amount of token to be paid as a fee for this transaction.https://merlin-li.github.io/zksync/api/js/accounts#fn5
+changePubKey.nonce (optional),Nonce that is going to be used for this transaction.https://merlin-li.github.io/zksync/api/js/accounts#fn7
+changePubKey.validFrom (optional),Unix timestamp from which the block with this transaction can be processed
+changePubKey.validUntil (optional),Unix timestamp until which the block with this transaction can be processed
+returns,Handle of the submitted transaction.

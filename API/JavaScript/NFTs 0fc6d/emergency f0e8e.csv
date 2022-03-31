@@ -1,0 +1,3 @@
+﻿Name,Description
+token,id of the NFT
+accountId (Optional),account id for fullExit

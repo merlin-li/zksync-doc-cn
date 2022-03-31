@@ -1,0 +1,6 @@
+﻿Name,Description
+forcedExit.target,zkSync address of the target account
+forcedExit.token,Token to be transferredhttps://merlin-li.github.io/zksync/api/js/accounts#fn6.
+forcedExit.fee,Amount of token to be paid as a fee for this transactionhttps://merlin-li.github.io/zksync/api/js/accounts#fn5.
+forcedExit.nonce,Nonce that is going to be used for this transactionhttps://merlin-li.github.io/zksync/api/js/accounts#fn7.
+returns,Signed transaction

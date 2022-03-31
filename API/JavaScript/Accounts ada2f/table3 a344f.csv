@@ -1,0 +1,6 @@
+﻿Name,Description
+syncSigner,zkSync signer that will be used for transaction signing.https://merlin-li.github.io/zksync/api/js/accounts#fn1
+provider,zkSync provider that is used for submitting a transaction to the zkSync network.
+create2Data,Data out of which the CREATE2 algorithm would derive the address.
+accountId (optional),zkSync account id.https://merlin-li.github.io/zksync/api/js/accounts#fn2
+returns,zksync.Wallet derived from ethereum wallet (ethers.Signer)

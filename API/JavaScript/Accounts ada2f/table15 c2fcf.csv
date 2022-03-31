@@ -1,0 +1,9 @@
+﻿Name,Description
+transfer.to,zkSync address of the recipient of funds
+transfer.token,Token to be transferredhttps://merlin-li.github.io/zksync/api/js/accounts#fn6
+transfer.amount,Amount of token to be transferred.https://merlin-li.github.io/zksync/api/js/accounts#fn8
+transfer.fee (optional),Amount of token to be paid as a fee for this transaction.https://merlin-li.github.io/zksync/api/js/accounts#fn5
+transfer.nonce (optional),Nonce that is going to be used for this transaction.https://merlin-li.github.io/zksync/api/js/accounts#fn7
+transfer.validFrom (optional),Unix timestamp from which the block with this transaction can be processed
+transfer.validUntil (optional),Unix timestamp until which the block with this transaction can be processed
+returns,Handle of the submitted transaction

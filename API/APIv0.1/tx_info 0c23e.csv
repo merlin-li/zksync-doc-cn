@@ -1,0 +1,2 @@
+﻿Parameter,Type,Description
+tx_hash,string,Hexadecimal string representation of transaction hash

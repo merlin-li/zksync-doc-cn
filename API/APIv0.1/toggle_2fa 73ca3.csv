@@ -1,0 +1,2 @@
+﻿Parameter,Type,Description
+request,Toggle2FARequest,Array of signed zkSync transactions

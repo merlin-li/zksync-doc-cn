@@ -1,0 +1,4 @@
+﻿Parameter,Type,Description
+tx_types,TxFeeTypes[],Type of each transaction in the batch.
+addresses,Address[],Address of each transaction recipient in the batch.
+token,TokenLike,Token identifier to request fee in.

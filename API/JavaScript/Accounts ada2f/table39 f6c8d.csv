@@ -1,0 +1,12 @@
+﻿Name,Description
+changePubKey.accountId,Account id of the sender
+changePubKey.account,zkSync address of the account
+changePubKey.newPkHash,Public key hash to be set for an account
+changePubKey.feeTokenId,Numerical token id
+changePubKey.fee,"Fee to pay for operation, paid in token"
+changePubKey.nonce,Transaction nonce
+changePubKey.validFrom,Unix timestamp from which the block with this transaction can be processed
+changePubKey.validUntil,Unix timestamp until which the block with this transaction can be processed
+changePubKey.ethAuthData (optional),Data which is used to verify the Ethereum signature
+changePubKey.ethSignature (optional),
+returns,Signed zkSync change public key transaction

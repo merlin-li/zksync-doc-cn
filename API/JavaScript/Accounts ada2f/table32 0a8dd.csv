@@ -1,0 +1,3 @@
+﻿Name,Description
+feeToken (optional),Token to pay fee for in.https://merlin-li.github.io/zksync/api/js/accounts#fn6
+returns,"Transactions, Ethereum signature, total fee."

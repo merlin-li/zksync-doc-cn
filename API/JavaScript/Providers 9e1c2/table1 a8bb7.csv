@@ -1,0 +1,5 @@
+﻿Name,Description
+tx,签名的 zkSync 交易（见类型，详细描述）
+signature,Signature of the readable representation of the transaction signed by ethereum wallet
+fastProcessing,仅仅提款使用: 请求更快地处理交易
+returns,交易的 0x 前缀十六进制编码散列

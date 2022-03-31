@@ -1,0 +1,6 @@
+﻿Name,Description
+ethWallet,ethers.Signer that corresponds to keys that own this account
+provider,zkSync provider that is used for submitting a transaction to the zkSync network.
+accountId (optional),zkSync account id.https://merlin-li.github.io/zksync/api/js/accounts#fn2
+ethSignatureType (optional),Type of signature that is produced by ethWallet.https://merlin-li.github.io/zksync/api/js/accounts#fn3
+returns,zksync.Wallet derived from ethereum wallet (ethers.Signer)

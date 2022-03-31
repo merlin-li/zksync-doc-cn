@@ -1,0 +1,4 @@
+﻿Parameter,Type,Description
+tx,Transactionhttps://merlin-li.github.io/zksync/api/api1#fn1,Signed zkSync transaction
+ethereumSignature,TxEthSignature?,Ethereum signature required for 2-factor authentication
+fastProcessing,boolean,Only for withdrawals: request faster block commitment

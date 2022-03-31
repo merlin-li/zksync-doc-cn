@@ -1,0 +1,4 @@
+﻿Parameter,Type,Description
+tx_type,TxFeeTypes,Type of transaction.
+address,Address,Address of transaction recipient.
+token,TokenLike,Token identifier to request fee in.

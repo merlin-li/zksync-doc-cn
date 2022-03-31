@@ -1,0 +1,3 @@
+﻿Parameter,Type,Description
+txs,Transaction[]https://merlin-li.github.io/zksync/api/api1#fn1,Array of signed zkSync transactions
+ethereumSignature,TxEthSignature?,Ethereum signature for the batch

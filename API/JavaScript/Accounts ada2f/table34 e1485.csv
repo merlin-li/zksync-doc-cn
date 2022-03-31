@@ -1,0 +1,3 @@
+﻿Name,Description
+ethSigner,Ethereum signer that is going to be used for signature generation.
+returns,Signer derived from this seed and method that signer used to sign message.

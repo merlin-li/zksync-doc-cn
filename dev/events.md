@@ -1,4 +1,4 @@
-# 活动
+# Events
 
 - [活动](https://merlin-li.github.io/zksync/watching#watching-events)
     - [设置 yarn 项目](https://merlin-li.github.io/zksync/watching#setting-up-the-yarn-project)

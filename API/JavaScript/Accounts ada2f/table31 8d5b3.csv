@@ -1,0 +1,7 @@
+﻿Name,Description
+forcedExit.target,zkSync address of the target account
+forcedExit.token,Token to be withdrawnhttps://merlin-li.github.io/zksync/api/js/accounts#fn6
+forcedExit.fee (optional),Amount of token to be paid as a fee for this transaction.https://merlin-li.github.io/zksync/api/js/accounts#fn5
+forcedExit.validFrom (optional),Unix timestamp from which the block with this transaction can be processed
+forcedExit.validUntil (optional),Unix timestamp until which the block with this transaction can be processed
+returns,Batch Builder instance.

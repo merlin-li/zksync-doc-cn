@@ -1,0 +1,6 @@
+﻿Name,Description
+from,Ethereum addresses of the target account.
+tokens,Tokens to be withdrawnhttps://merlin-li.github.io/zksync/api/js/accounts#fn6
+multicallParams,"The params of the call to the multicall smart contract. This is an advanced feature, it is not recommended to set these values manually."
+amounts (optional),Amounts to withdraw
+returns,Handle for this transaction.

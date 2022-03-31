@@ -1,0 +1,3 @@
+﻿Name,Description
+transfers,An array of transfer transactions.
+returns,Array of handle for each submitted transaction.

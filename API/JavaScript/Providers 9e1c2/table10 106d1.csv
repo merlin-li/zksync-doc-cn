@@ -1,0 +1,4 @@
+﻿Name,Description
+serialId,Numerical id of the priority operation.
+action,"""COMMIT"" or ""VERIFY""."
+returns,Receipt of this priority operation.

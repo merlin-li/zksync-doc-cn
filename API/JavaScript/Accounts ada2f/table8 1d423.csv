@@ -1,0 +1,3 @@
+﻿Name,Description
+token,"Token of interest, symbol or address of the supported token"
+returns,Balance of this token

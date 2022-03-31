@@ -1,0 +1,8 @@
+﻿Name,Description
+forcedExit.target,Ethereum address of the target account.
+forcedExit.token,Token to be transferredhttps://merlin-li.github.io/zksync/api/js/accounts#fn6.
+forcedExit.fee (optional),Amount of token to be paid as a fee for this transactionhttps://merlin-li.github.io/zksync/api/js/accounts#fn5.
+forcedExit.nonce (optional),Nonce that is going to be used for this transactionhttps://merlin-li.github.io/zksync/api/js/accounts#fn7.
+forcedExit.validFrom (optional),Unix timestamp from which the block with this transaction can be processed
+forcedExit.validUntil (optional),Unix timestamp until which the block with this transaction can be processed
+returns,Handle of the submitted transaction
